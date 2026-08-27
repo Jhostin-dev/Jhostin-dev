@@ -1,10 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="Jhostin — Software Developer, AI and Open Source" src="./assets/hero-dark.svg" width="100%">
-</picture>
+# JHOSTIN
+
+### Software Developer · AI · Open Source
+
+<img src="./assets/hero-monochrome.png" width="100%" alt="Monochrome pixel-art landscape leading to a developer workstation">
 
 <br>
 
@@ -12,88 +12,77 @@
 
 </div>
 
-<br>
+---
 
-## `01 // hello_world`
+## About me
 
-I'm **Jhostin**, a software developer interested in the systems behind the interface—from reliable backends and data layers to local AI and open-source tools. I like turning *“what if?”* into software people can actually use.
+I'm **Jhostin**, a software developer interested in the systems behind the interface—from reliable backends and data layers to local AI and open-source tools. I enjoy turning *“what if?”* into software people can actually use.
 
-```python
-jhostin = {
-    "focus": ["Software Development", "Artificial Intelligence"],
-    "interests": ["Backend", "Web", "Mobile", "Open Source"],
-    "languages": ["Python", "TypeScript", "JavaScript", "C++"],
-    "currently_exploring": ["Local AI", "System Design", "Cloud"],
-    "os": "Linux 🐧"
-}
-```
+- Building across **backend, web and mobile**
+- Exploring **local AI, system design and cloud architecture**
+- Contributing to and learning through **open source**
+- Daily-driving **Linux** 🐧
 
-<img src="./assets/divider.svg" width="100%" alt="">
+---
 
-## `02 // toolkit`
+## Technologies
 
-<div align="center">
+**Languages** · `Python` · `TypeScript` · `JavaScript` · `C++` · `Java` · `Bash`
 
-**Languages**
+**Frontend & Mobile** · `React` · `Vite` · `HTML` · `CSS`
 
-[![Languages](https://skillicons.dev/icons?i=py,ts,js,cpp,java,bash&theme=dark)](https://skillicons.dev)
+**Backend & Data** · `PostgreSQL` · `Supabase` · `Firebase`
 
-**Frontend & Mobile**
+**Tools & Platforms** · `Docker` · `Git` · `GitHub` · `Linux` · `VS Code` · `Arduino / ESP32`
 
-[![Frontend](https://skillicons.dev/icons?i=react,vite,html,css&theme=dark)](https://skillicons.dev)
+---
 
-**Backend & Data**
+## Featured project
 
-[![Backend and data](https://skillicons.dev/icons?i=postgres,supabase,firebase&theme=dark)](https://skillicons.dev)
+### [MediChain](https://github.com/Jhostin-dev/MediChain)
 
-**Tools & Platforms**
+> **Your health. Your data.**  
+> Privacy-first medical records powered by local AI.
 
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,vscode,arduino&theme=dark)](https://skillicons.dev)
+`React` · `TypeScript` · `Supabase` · `PostgreSQL` · `Local AI`
 
-</div>
+[View the source →](https://github.com/Jhostin-dev/MediChain)
 
-<img src="./assets/divider.svg" width="100%" alt="">
+---
 
-## `03 // featured_build`
+## Competitive programming
 
-<a href="https://github.com/Jhostin-dev/MediChain">
-  <img src="./assets/medichain-card.svg" width="100%" alt="MediChain — privacy-first medical records powered by local AI">
-</a>
+I use competitive programming to sharpen how I approach algorithms, data structures and constrained problem-solving—primarily with **Python** and **C++**.
 
-## `04 // problem_solving`
+- Break complex problems into precise, testable steps
+- Choose data structures intentionally
+- Analyze complexity before optimizing
+- Learn, iterate and solve again
 
-```text
-$ solve --mode competitive
-  ├─ algorithms      → breaking large problems into precise steps
-  ├─ data structures → choosing the right shape for the job
-  ├─ languages       → Python / C++
-  └─ objective       → learn, optimize, repeat
-```
+---
 
-<img src="./assets/divider.svg" width="100%" alt="">
-
-## `05 // signal`
+## GitHub activity
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhostin-dev&theme=github_dark&title_color=39d9ff&icon_color=39d9ff&border_color=30363d">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhostin-dev&theme=github&title_color=0969da&icon_color=0969da&border_color=d0d7de">
-    <img height="165" alt="Jhostin's GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhostin-dev&theme=github_dark&title_color=39d9ff&icon_color=39d9ff&border_color=30363d">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhostin-dev&theme=github_dark&title_color=f0f6fc&text_color=c9d1d9&icon_color=8b949e&border_color=30363d">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhostin-dev&theme=github&title_color=24292f&text_color=57606a&icon_color=57606a&border_color=d0d7de">
+    <img height="165" alt="Jhostin's GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhostin-dev&theme=github_dark&title_color=f0f6fc&text_color=c9d1d9&icon_color=8b949e&border_color=30363d">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhostin-dev&theme=github_dark&title_color=39d9ff&icon_color=39d9ff&chart_color=39d9ff&border_color=30363d">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhostin-dev&theme=github&title_color=0969da&icon_color=0969da&chart_color=0969da&border_color=d0d7de">
-    <img height="165" alt="Jhostin's most used public repository languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhostin-dev&theme=github_dark&title_color=39d9ff&icon_color=39d9ff&chart_color=39d9ff&border_color=30363d">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhostin-dev&theme=github_dark&title_color=f0f6fc&text_color=c9d1d9&icon_color=8b949e&chart_color=8b949e&border_color=30363d">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhostin-dev&theme=github&title_color=24292f&text_color=57606a&icon_color=57606a&chart_color=57606a&border_color=d0d7de">
+    <img height="165" alt="Jhostin's most used public repository languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhostin-dev&theme=github_dark&title_color=f0f6fc&text_color=c9d1d9&icon_color=8b949e&chart_color=8b949e&border_color=30363d">
   </picture>
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhostin-dev&theme=github_dark&title_color=39d9ff&icon_color=39d9ff&chart_color=39d9ff&border_color=30363d">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhostin-dev&theme=github&title_color=0969da&icon_color=0969da&chart_color=0969da&border_color=d0d7de">
-  <img alt="Jhostin's GitHub activity overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhostin-dev&theme=github_dark&title_color=39d9ff&icon_color=39d9ff&chart_color=39d9ff&border_color=30363d" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhostin-dev&theme=github_dark&title_color=f0f6fc&text_color=c9d1d9&icon_color=8b949e&chart_color=8b949e&border_color=30363d">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhostin-dev&theme=github&title_color=24292f&text_color=57606a&icon_color=57606a&chart_color=57606a&border_color=d0d7de">
+  <img alt="Jhostin's GitHub activity overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhostin-dev&theme=github_dark&title_color=f0f6fc&text_color=c9d1d9&icon_color=8b949e&chart_color=8b949e&border_color=30363d" width="100%">
 </picture>
 
-## `06 // contribution_arcade`
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhostin-dev/Jhostin-dev/output/pacman-contribution-graph-dark.svg">
@@ -102,25 +91,23 @@ $ solve --mode competitive
 </picture>
 
 <!--
-## `07 // learning_streak`
+## Learning streak
 
 Duolingo can be enabled here once a reliable public integration is available.
 Never place a password, session token, or private credential in this README.
 -->
 
-<img src="./assets/divider.svg" width="100%" alt="">
+---
 
-## `07 // connect`
+## Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jhostin--dev-0d1117?style=for-the-badge&logo=github&logoColor=39d9ff)](https://github.com/Jhostin-dev)
-
-<!-- Add verified LinkedIn, portfolio, or email links here when ready. -->
+[GitHub](https://github.com/Jhostin-dev) · [MediChain](https://github.com/Jhostin-dev/MediChain)
 
 <br>
 
-<img src="./assets/footer.svg" width="100%" alt="End of transmission — keep building">
+<samp>stay curious · keep building</samp>
 
 </div>
 
