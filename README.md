@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/space-banner-text.png" width="100%" alt="Hi, I'm Jhostin — Software Developer, AI and Open Source">
+  <img src="./assets/space-banner-text.png" width="92%" alt="Hi, I'm Jhostin — Software Developer, AI and Open Source">
 </p>
 
 <table>
