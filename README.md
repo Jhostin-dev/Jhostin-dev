@@ -5,10 +5,14 @@
 <table>
   <tr>
     <td width="58%" valign="middle">
+      <strong>ABOUT ME</strong><br><br>
       <p>
-        I learn by shipping: backends, web and mobile apps, Linux tooling and local AI
-        experiments. Right now I'm building <a href="https://github.com/Jhostin-dev/MediChain">MediChain</a>
-        and improving the systems behind it.
+        I'm a software developer who learns by building. I enjoy turning rough ideas
+        into useful tools across backend, web and mobile.
+      </p>
+      <p>
+        Right now I'm building <a href="https://github.com/Jhostin-dev/MediChain">MediChain</a>,
+        daily-driving Linux and exploring what local AI can do.
       </p>
       <table>
         <tr>
