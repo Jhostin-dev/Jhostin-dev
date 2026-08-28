@@ -1,17 +1,16 @@
-<img align="right" width="260" src="https://raw.githubusercontent.com/Andrew-Velox/Andrew-Velox/main/.github/assets/kenkankei_cmp.png" alt="Anime character">
-
 <p align="center">
-  <br><br>
-  <img src="https://count.getloli.com/@Jhostin-dev?name=Jhostin-dev&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0" width="400" alt="Profile views">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhostin-dev&theme=midnight_purple" width="400" alt="GitHub statistics">
-  <img src="https://streak-stats.demolab.com?user=Jhostin-dev&theme=midnight-purple&hide_border=true" width="400" height="170" alt="GitHub streak">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhostin-dev&theme=midnight_purple" width="400" alt="GitHub profile details">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhostin-dev&theme=midnight_purple" width="400" alt="Languages by repository">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhostin-dev&theme=midnight_purple&utcOffset=-5" width="400" alt="Productive time">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhostin-dev&theme=midnight_purple" width="100%" alt="GitHub profile details">
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhostin-dev&theme=high-contrast&hide_border=true&area=true" width="100%" alt="Contribution activity graph">
-<br clear="both">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhostin-dev&theme=midnight_purple" width="49%" alt="GitHub statistics">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhostin-dev&theme=midnight_purple" width="49%" alt="Languages by repository">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhostin-dev&theme=midnight_purple" width="49%" alt="Most used languages by commits">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhostin-dev&theme=midnight_purple&utcOffset=-5" width="49%" alt="Productive time">
+</p>
 
 ---
 
@@ -56,7 +55,6 @@
   <h2>💻 Competitive programming 💻</h2>
   <br>
   <p>I sharpen my problem-solving skills with algorithms, data structures, Python and C++.</p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhostin-dev&theme=midnight_purple" width="400" alt="Most used languages by commits">
 </div>
 
 <hr>
