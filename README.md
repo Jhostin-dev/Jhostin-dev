@@ -11,8 +11,7 @@
         into useful tools across backend, web and mobile.
       </p>
       <p>
-        Right now I'm building <a href="https://github.com/Jhostin-dev/MediChain">MediChain</a>,
-        daily-driving Linux and exploring what local AI can do.
+        Right now I'm daily-driving Linux and exploring what local AI can do.
       </p>
       <p>
         <strong>LANGUAGES</strong>
@@ -34,9 +33,6 @@
         <tr>
           <td><img src="https://skillicons.dev/icons?i=linux" width="24" height="24" alt="Linux"></td>
           <td><strong>Linux</strong><br><sub>daily driver</sub></td>
-          <td>&nbsp;&nbsp;</td>
-          <td><img src="https://skillicons.dev/icons?i=react" width="24" height="24" alt="React"></td>
-          <td><strong>MediChain</strong><br><sub>currently building</sub></td>
           <td>&nbsp;&nbsp;</td>
           <td><img src="https://skillicons.dev/icons?i=py" width="24" height="24" alt="Python"></td>
           <td><strong>Local AI</strong><br><sub>currently exploring</sub></td>
