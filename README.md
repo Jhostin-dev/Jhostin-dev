@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="./assets/space-banner.png" width="100%" alt="Deep violet space banner">
+  <img src="./assets/space-banner-text.png" width="100%" alt="Hi, I'm Jhostin — Software Developer, AI and Open Source">
 </p>
 
 <table>
   <tr>
     <td width="58%" valign="middle">
-      <h1>Hi, I'm Jhostin.</h1>
-      <h3>Software developer building practical tools and products.</h3>
       <p>
         I learn by shipping: backends, web and mobile apps, Linux tooling and local AI
         experiments. Right now I'm building <a href="https://github.com/Jhostin-dev/MediChain">MediChain</a>
