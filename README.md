@@ -1,17 +1,28 @@
 <table>
   <tr>
     <td width="58%" valign="middle">
-      <h1>Hi 👋, I'm Jhostin</h1>
-      <h3>Software Developer · AI · Open Source</h3>
+      <h1>Hi, I'm Jhostin.</h1>
+      <h3>Software developer building practical tools and products.</h3>
       <p>
-        I build useful software across backend, web and mobile, with a growing focus on
-        local AI, reliable systems and open-source tools. I enjoy turning ideas into
-        practical products people can actually use.
+        I learn by shipping: backends, web and mobile apps, Linux tooling and local AH
+        experiments. Right now I'm building <a href="https://github.com/Jhostin-dev/MediChain">MediChain</a>
+        and improving the systems behind it.
       </p>
-      <p>🐧 Linux user · 🧠 Problem solving · 🚀 Always learning</p>
+      <table>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=linux" width="24" height="24" alt="Linux"></td>
+          <td><strong>Linux</strong><br><sub>daily driver</sub></td>
+          <td>&nbsp;&nbsp;</td>
+          <td><img src="https://skillicons.dev/icons?i=react" width="24" height="24" alt="React"></td>
+          <td><strong>MediChain</strong><br><sub>currently building</sub></td>
+          <td>&nbsp;&nbsp;</td>
+          <td><img src="https://skillicons.dev/icons?i=py" width="24" height="24" alt="Python"></td>
+          <td><strong>Local AI</strong><br><sub>currently exploring</sub></td>
+        </tr>
+      </table>
     </td>
     <td width="42%" align="center" valign="middle">
-      <strong>🦉 Duolingo streak</strong><br><br>
+      <strong>DUOLINGO · DAILY STREAK</strong><br><br>
       <a href="https://es.duolingo.com/profile/JhosTintkn">
         <img src="https://api.pixel-87.uk/api/duolingo/button?username=JhosTintkn" width="176" height="62" alt="Jhostin's Duolingo streak">
       </a>
@@ -23,7 +34,7 @@
 
 ---
 
-<h2 align="center">Languages-Frameworks-Tools</h2>
+<h2 align="center">Languages · Frameworks · Tools</h2>
 <br>
 
 <table align="center">
@@ -59,6 +70,9 @@
 <br>
 
 ---
+
+<h2 align="center">GitHub Activity</h2>
+<br>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhostin-dev&theme=midnight_purple" width="100%" alt="GitHub profile details">
