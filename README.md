@@ -14,6 +14,22 @@
         Right now I'm building <a href="https://github.com/Jhostin-dev/MediChain">MediChain</a>,
         daily-driving Linux and exploring what local AI can do.
       </p>
+      <p>
+        <strong>LANGUAGES</strong>
+      </p>
+      <table>
+        <tr>
+          <td><img src="https://flagcdn.com/w40/gb.png" width="28" height="20" alt="English"></td>
+          <td><strong>English</strong><br><sub>B2</sub></td>
+          <td>&nbsp;&nbsp;</td>
+          <td><img src="https://flagcdn.com/w40/ec.png" width="28" height="20" alt="Spanish"></td>
+          <td><strong>Spanish</strong><br><sub>Native</sub></td>
+          <td>&nbsp;&nbsp;</td>
+          <td><img src="https://flagcdn.com/w40/ru.png" width="28" height="20" alt="Russian"></td>
+          <td><strong>Russian</strong><br><sub>A2</sub></td>
+        </tr>
+      </table>
+      <br>
       <table>
         <tr>
           <td><img src="https://skillicons.dev/icons?i=linux" width="24" height="24" alt="Linux"></td>
