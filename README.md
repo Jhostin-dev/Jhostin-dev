@@ -1,3 +1,28 @@
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <h1>Hi 👋, I'm Jhostin</h1>
+      <h3>Software Developer · AI · Open Source</h3>
+      <p>
+        I build useful software across backend, web and mobile, with a growing focus on
+        local AI, reliable systems and open-source tools. I enjoy turning ideas into
+        practical products people can actually use.
+      </p>
+      <p>🐧 Linux user · 🧠 Competitive programming · 🚀 Always learning</p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <strong>🦉 Duolingo streak</strong><br><br>
+      <a href="https://es.duolingo.com/profile/JhosTintkn">
+        <img src="https://api.pixel-87.uk/api/duolingo/button?username=JhosTintkn" width="176" height="62" alt="Jhostin's Duolingo streak">
+      </a>
+      <br>
+      <sub>Learning every day</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhostin-dev&theme=midnight_purple" width="100%" alt="GitHub profile details">
 </p>
