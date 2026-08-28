@@ -28,10 +28,12 @@
       </table>
     </td>
     <td width="42%" align="center" valign="middle">
-      <strong>DUOLINGO · LANGUAGE JOURNEY</strong><br><br>
+      <strong>DUOLINGO · DAILY STREAK</strong><br><br>
       <a href="https://es.duolingo.com/profile/JhosTintkn">
-        <img src="https://duolingo-streak-tracker.vercel.app/api/card/JhosTintkn?theme=butterfly&variant=default&show=streak%2Cxp%2Clanguages&langLimit=3&title=Language%20Journey" width="360" alt="Jhostin's Duolingo streak, XP and languages">
+        <img src="https://api.pixel-87.uk/api/duolingo/button?username=JhosTintkn" width="176" height="62" alt="Jhostin's Duolingo streak">
       </a>
+      <br>
+      <sub>Learning every day</sub>
     </td>
   </tr>
 </table>
