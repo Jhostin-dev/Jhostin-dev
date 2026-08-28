@@ -1,16 +1,25 @@
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhostin-dev&theme=midnight_purple" width="100%" alt="GitHub profile details">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhostin-dev&theme=midnight_purple" width="49%" alt="GitHub statistics">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhostin-dev&theme=midnight_purple" width="49%" alt="Languages by repository">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhostin-dev&theme=midnight_purple" width="49%" alt="Most used languages by commits">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhostin-dev&theme=midnight_purple&utcOffset=-5" width="49%" alt="Productive time">
-</p>
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <h1>Hi 👋, I'm Jhostin</h1>
+      <h3>Software Developer · AI · Open Source</h3>
+      <p>
+        I build useful software across backend, web and mobile, with a growing focus on
+        local AI, reliable systems and open-source tools. I enjoy turning ideas into
+        practical products people can actually use.
+      </p>
+      <p>🐧 Linux user · 🧠 Problem solving · 🚀 Always learning</p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <strong>🦉 Duolingo streak</strong><br><br>
+      <a href="https://es.duolingo.com/profile/JhosTintkn">
+        <img src="https://api.pixel-87.uk/api/duolingo/button?username=JhosTintkn" width="176" height="62" alt="Jhostin's Duolingo streak">
+      </a>
+      <br>
+      <sub>Learning every day</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -51,36 +60,19 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="58%" valign="middle">
-      <h1>Hi 👋, I'm Jhostin</h1>
-      <h3>Software Developer · AI · Open Source</h3>
-      <p>
-        I build useful software across backend, web and mobile, with a growing focus on
-        local AI, reliable systems and open-source tools. I enjoy turning ideas into
-        practical products people can actually use.
-      </p>
-      <p>🐧 Linux user · 🧠 Competitive programming · 🚀 Always learning</p>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <strong>🦉 Duolingo streak</strong><br><br>
-      <a href="https://es.duolingo.com/profile/JhosTintkn">
-        <img src="https://api.pixel-87.uk/api/duolingo/button?username=JhosTintkn" width="176" height="62" alt="Jhostin's Duolingo streak">
-      </a>
-      <br>
-      <sub>Learning every day</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhostin-dev&theme=midnight_purple" width="100%" alt="GitHub profile details">
+</p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhostin-dev&theme=midnight_purple" width="49%" alt="GitHub statistics">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhostin-dev&theme=midnight_purple" width="49%" alt="Languages by repository">
+</p>
 
-<div align="center">
-  <h2>💻 Competitive programming 💻</h2>
-  <br>
-  <p>I sharpen my problem-solving skills with algorithms, data structures, Python and C++.</p>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhostin-dev&theme=midnight_purple" width="49%" alt="Most used languages by commits">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhostin-dev&theme=midnight_purple&utcOffset=-5" width="49%" alt="Productive time">
+</p>
 
 <hr>
 
